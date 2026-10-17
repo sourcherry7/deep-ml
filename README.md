@@ -2,11 +2,19 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 0 problems · 0 labs · 4 math
+**7** solved · 3 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://sourcherry7.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-17 | [solution](problems/0083-dot-product-calculator) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-17 | [solution](problems/0121-vector-element-wise-sum) |
+| [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-17 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 
 ## Math
 
