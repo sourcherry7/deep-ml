@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 8 problems · 0 labs · 7 math
+**16** solved · 8 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-17 | [solution](math/0007-vector-operations) |
 | [DDPM Forward-Process Variance Schedule](https://www.deep-ml.com/math-problems/137) | medium | 2026-10-19 | [solution](math/0137-ddpm-forward-process-variance-schedule) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-17 | [solution](math/0010-matrix-multiplication) |
+| [Signal-to-Noise Ratio and Schedule Design](https://www.deep-ml.com/math-problems/245) | medium | 2026-10-20 | [solution](math/0245-signal-to-noise-ratio-and-schedule-design) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-17 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---

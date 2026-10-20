@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:49:48.601Z",
+  "generated_at": "2026-10-20T16:33:37.808Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -181,6 +181,17 @@
       "path": "math/0137-ddpm-forward-process-variance-schedule",
       "first_solved_at": "2026-10-19T20:49:47.872Z",
       "last_pushed_at": "2026-10-19T20:49:47.872Z"
+    },
+    "math:245": {
+      "kind": "math",
+      "id": "245",
+      "title": "Signal-to-Noise Ratio and Schedule Design",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/245",
+      "path": "math/0245-signal-to-noise-ratio-and-schedule-design",
+      "first_solved_at": "2026-10-20T16:33:37.452Z",
+      "last_pushed_at": "2026-10-20T16:33:37.452Z"
     }
   }
 }
