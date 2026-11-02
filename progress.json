@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:33:37.808Z",
+  "generated_at": "2026-11-02T07:45:38.266Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -192,6 +192,17 @@
       "path": "math/0245-signal-to-noise-ratio-and-schedule-design",
       "first_solved_at": "2026-10-20T16:33:37.452Z",
       "last_pushed_at": "2026-10-20T16:33:37.452Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-11-02T07:45:37.658Z",
+      "last_pushed_at": "2026-11-02T07:45:37.658Z"
     }
   }
 }
